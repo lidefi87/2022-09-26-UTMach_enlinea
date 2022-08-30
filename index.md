@@ -1,18 +1,18 @@
 ---
-layout: workshop      # NO CAMBIAR ESTO 
-venue: "COMPLETAR"        # nombre breve del espacio donde se lleva adelante el taller, sin dirección (por ejemplo, "Universidad de Buenos Aires")
-address: "COMPLETAR"      # dirección completa del espacio donde se realizará el taller (por ejemplo, "Aula 3, Av. Córdoba 1234, Buenos Aires, Argentina")
-country: "COMPLETAR"      # código ISO del país, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_3166-1)
-language: "COMPLETAR"     # código ISO del idioma, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_639-1)
-latitude: "COMPLETAR"       # latitud del espacio en formato decimal (por ejemplo, "41.7901128" - usar http://www.latlong.net/)
-longitude: "COMPLETAR"    # longitud del espacio en formato decimal (por ejemplo, "-87.6007318" - usar http://www.latlong.net/)
-humandate: "COMPLETAR"    # fechas del taller en formato legible (por ejemplo, "Feb 17-18, 2020")
-humantime: "COMPLETAR"    # hora del taller en formato legible (por ejemplo, "9:00 am - 4:30 pm")
-startdate: COMPLETAR      # fecha de inicio del taller en formato YYYY-MM-DD (por ejemplo, 2015-01-01)
-enddate: COMPLETAR        # fecha de finalización del taller en formato YYYY-MM-DD, por ejemplo 2015-01-02
-instructor: ["COMPLETAR"] # lista de nombres de las instructoras separados por comas y entre corchetes, como ["Hedy Lamarr", "Ada Lovelace", "Madame Curie"]
-helper: ["COMPLETAR"]     # lista de nombres de las **helpers** separados por comas y entre corchetes, como ["Carrie Fisher", "Frances Allen", "Margaret Hamilton"]
-email: ["fixme@example.org"]    # lista de direcciones de correo electrónico de contacto con la **host** ó **lead instructor**, separadas por comas y entre corchetes, como ["ada.lovelace@ejemplo.org", "carrie.fisher@ejemplo.org", "hedy.lamarr@example.org"]
+layout: Semana de la Ciencia UTMACH 2022      # NO CAMBIAR ESTO 
+venue: "Universidad Técnica de Machala"        # nombre breve del espacio donde se lleva adelante el taller, sin dirección (por ejemplo, "Universidad de Buenos Aires")
+address: "En línea - Zoom"      # dirección completa del espacio donde se realizará el taller (por ejemplo, "Aula 3, Av. Córdoba 1234, Buenos Aires, Argentina")
+country: "Ecuador"      # código ISO del país, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_3166-1)
+language: "Español"     # código ISO del idioma, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_639-1)
+latitude: null       # latitud del espacio en formato decimal (por ejemplo, "41.7901128" - usar http://www.latlong.net/)
+longitude: null    # longitud del espacio en formato decimal (por ejemplo, "-87.6007318" - usar http://www.latlong.net/)
+humandate: "Septiembre 26, 2022"    # fechas del taller en formato legible (por ejemplo, "Feb 17-18, 2020")
+humantime: "03:00 pm"    # hora del taller en formato legible (por ejemplo, "9:00 am - 4:30 pm")
+startdate: 2022-09-26      # fecha de inicio del taller en formato YYYY-MM-DD (por ejemplo, 2015-01-01)
+enddate: 2022-09-26        # fecha de finalización del taller en formato YYYY-MM-DD, por ejemplo 2015-01-02
+instructor: ["Denisse Fierro Arcos", "Linda Cabrera Orellana"] # lista de nombres de las instructoras separados por comas y entre corchetes, como ["Hedy Lamarr", "Ada Lovelace", "Madame Curie"]
+helper: [null]     # lista de nombres de las **helpers** separados por comas y entre corchetes, como ["Carrie Fisher", "Frances Allen", "Margaret Hamilton"]
+email: ["lidefi87@hotmail.com", "lindaj.cabrera@gmail.com"]    # lista de direcciones de correo electrónico de contacto con la **host** ó **lead instructor**, separadas por comas y entre corchetes, como ["ada.lovelace@ejemplo.org", "carrie.fisher@ejemplo.org", "hedy.lamarr@example.org"]
 collaborative_notes:             # optional: URL de las notas colaborativas del taller, por ejemplo un Etherpad o documento de Google Docs 
 eventbrite:           # optional: clave alfanumérica de registro en Eventbrite, por ejemplo "1234567890AB" (si se está utilizando Eventbrite)
 ---
