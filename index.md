@@ -151,14 +151,10 @@ Es un requisito de este taller que todas las personas registradas respeten el <a
   Modifica este bloque si existen barreras de accesibilidad o instrucciones especiales.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Accesibilidad:</strong> Estamos comprometidas a hacer que este taller sea accesible para todas las personas registradas. Las organizadoras comprobaron que: 
+  <strong>Accesibilidad:</strong> Estamos comprometidas a hacer que este taller sea accesible para todas las personas registradas. Este taller será llevado a cabo en línea y miembros del público general podrán registrarse de manera gratuita.
 </p>
-<ul>
-  <li>El salón es accesible para silla de ruedas o similar</li>
-  <li>Baños accesibles están a disposición</li>
-</ul>
 <p>
-  Los materiales se entregarán antes del taller, también se encuentra disponible material impreso si se pide a los organizadores con anticipación. Si podemos ayudar a facilitar el aprendizaje (por ejemplo, con intérpretes de lenguaje de señas, o instalaciones para lactancia), por favor contáctanos (utilizando los detalles de contacto listados debajo) e intentaremos proveerlos.
+Si podemos ayudar a facilitar el aprendizaje (por ejemplo, con subtítulos para personas con impedimentos auditivos), por favor contáctanos (utilizando los detalles de contacto listados debajo) e intentaremos proveerlos.
 </p>
 
 {% comment %}
