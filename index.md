@@ -1,5 +1,5 @@
 ---
-layout: Semana de la Ciencia UTMACH 2022      # NO CAMBIAR ESTO 
+layout: workshop      # NO CAMBIAR ESTO 
 venue: "Universidad Técnica de Machala"        # nombre breve del espacio donde se lleva adelante el taller, sin dirección (por ejemplo, "Universidad de Buenos Aires")
 address: "En línea - Zoom"      # dirección completa del espacio donde se realizará el taller (por ejemplo, "Aula 3, Av. Córdoba 1234, Buenos Aires, Argentina")
 country: "Ecuador"      # código ISO del país, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_3166-1)
